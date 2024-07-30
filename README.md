@@ -1,2 +1,2 @@
-# Dispensador_de_comida
-Proyecto de programación
+# Movimientos de servo mediante temperaturas
+Programación
